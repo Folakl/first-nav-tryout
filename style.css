@@ -1,13 +1,12 @@
-/* *{
+*{
     padding:0px ;
     margin:0px ;
-} */
+}
 
 nav{
-    
     height: 50px;
-    /* border: 1px solid red; */
     display: flex;
+   
 
 }
 #div1,
@@ -16,6 +15,7 @@ nav{
     display: flex;
     align-items: center;
     height: 100%;
+    width:100%;
     background-color: lightgray;
 
 }
